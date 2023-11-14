@@ -1,0 +1,8 @@
+{
+  "orderSummaryPageTitle": "Checkout: Overview",
+  "overviewURL" :"https://www.saucedemo.com/checkout-step-two.html",
+  "successMessage": "Thank you for your order!",
+  "successMessageDescription": "Your order has been dispatched, and will arrive just as fast as the pony can get there!",
+  "completePageTitle" :"Checkout: Complete!"
+
+}

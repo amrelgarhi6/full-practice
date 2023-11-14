@@ -1,0 +1,15 @@
+{
+"validCred": {
+
+  "username" : "standard_user",
+  "password" : "secret_sauce"
+},
+
+  "InValidCred": {
+
+    "username" : "standard_user2",
+    "password" : "secret_sauce123"
+},
+  "errorMessage": "Epic sadface: Username and password do not match any user in this service"
+
+}
