@@ -1,4 +1,4 @@
-* Ejada Automation Assessment 
+
 
 * Table of Contents
 About The Repo
